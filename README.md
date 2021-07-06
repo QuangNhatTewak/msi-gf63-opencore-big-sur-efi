@@ -1,7 +1,7 @@
 # msi-gf63-opencore-big-sur-efi
 working msi gf63 opencore efi
 
-Working
+*Working
 .trackpad
 .keyboard
 .LAN
@@ -11,7 +11,7 @@ Working
 .WebCam
 .AirDrop
 .etc
-NOT Working
+*NOT Working
 .Audio
 .slow booting speed
 
