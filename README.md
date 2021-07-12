@@ -1,7 +1,9 @@
-# msi-gf63-opencore-big-sur-efi
+# msi-gf63-opencore-big-sur-efi (DEAD)
+New EFI : https://drive.google.com/file/d/1cjtqoTr5TSyMXxlErdIkZjNs-bPOvn9D/view?usp=sharing
 working msi gf63 opencore efi
 
 *Working
+.Audio
 .trackpad
 .keyboard
 .LAN
@@ -12,7 +14,8 @@ working msi gf63 opencore efi
 .AirDrop
 .etc
 *NOT Working
-.Audio
+
+.webcam
 .slow booting speed
 
 
